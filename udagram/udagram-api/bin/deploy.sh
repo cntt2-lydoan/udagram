@@ -1,7 +1,7 @@
 set -x
 set -e
 
-eb use Lyly-udagram-api-dev
+eb use Lyly-udagram-api-env
 
 eb setenv POSTGRES_HOST=$POSTGRES_HOST \
           POSTGRES_DB=$POSTGRES_DB  \

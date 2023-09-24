@@ -1,6 +1,6 @@
 branch-defaults:
   default:
-    environment: Lyly-udagram-api-dev
+    environment: Lyly-udagram-api-env
     group_suffix: null
 global:
   application_name: lyly-udagram-api
