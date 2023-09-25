@@ -10,9 +10,9 @@ The main feature of this project is:
 
 ## Project Link
 
-Frontend: http://my-udagram.s3-website-us-east-1.amazonaws.com/
+Frontend: http://lyly-bucket.s3-website-us-east-1.amazonaws.com/
 
-Backend: http://haro-dagram-api-dev.us-east-1.elasticbeanstalk.com/
+Backend: http://http://ly0-udagram-dev.us-east-1.elasticbeanstalk.com/
 
 ## Project Setup
 
@@ -27,11 +27,11 @@ export POSTGRES_PASSWORD=postgres     // Postgres password
 export POSTGRES_HOST=''               // Postgres Host
 export POSTGRES_DB=postgres           // Database name
 export AWS_PROFILE=default            // AWS Profile
-export AWS_BUCKET=my-udagram          // S3 bucket
+export AWS_BUCKET=lyly-bucket         // S3 bucket
 export AWS_DEFAULT_REGION=us-east-1   // AWS default region
 export AWS_REGION=us-east-1           // AWS region
 export AWS_PROFILE=default            // AWS profile
-export JWT_SECRET=mysecretstring      // JWT secret key
+export JWT_SECRET="YourSecretString"  // JWT secret key
 export PORT=5432                      // Posgres Port
 export AWS_ACCESS_KEY_ID=             // AWS Acess Key ID
 export AWS_SECRET_ACCESS_KEY=         // AWS Secret Access Key
