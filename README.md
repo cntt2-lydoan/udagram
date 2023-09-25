@@ -12,7 +12,7 @@ The main feature of this project is:
 
 Frontend: http://lyly-bucket.s3-website-us-east-1.amazonaws.com/
 
-Backend: http://http://ly0-udagram-dev.us-east-1.elasticbeanstalk.com/
+Backend: http://ly0-udagram-dev.us-east-1.elasticbeanstalk.com/
 
 ## Project Setup
 
